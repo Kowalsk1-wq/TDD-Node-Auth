@@ -1,0 +1,6 @@
+.env
+.env.test
+yarn.lock
+
+.vscode/
+node_modules/
